@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# flutter版 QQ清除消息粘性tag 特效
+
+进度：
+- 完成拖拽粘性效果
+
+待完成：
+- 松手回弹动画
+- 添加child
+- child销毁动画
