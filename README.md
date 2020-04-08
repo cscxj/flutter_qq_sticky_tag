@@ -19,8 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 
 进度：
 - 完成拖拽粘性效果
-
-待完成：
 - 松手回弹动画
 - 添加child
+
+待完成：
 - child销毁动画
+- 粘性区域不能放在正后方
